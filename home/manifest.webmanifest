@@ -1,8 +1,8 @@
 {
-  "name": "untitled gun game",
-  "short_name": "untitled gun game",
+  "name": "Boat.",
+  "short_name": "Boat.",
   "id": "com.example.gamename",
-  "description": "Brain marrow corps.",
+  "description": "",
   "orientation": "landscape",
   "start_url": "./index.html",
   "display": "standalone",

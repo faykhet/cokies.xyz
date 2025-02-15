@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__MousePointerLock__RequestPointerLock !== "undefined") {
 gdjs.evtsExt__MousePointerLock__RequestPointerLock = {};
 
 
-gdjs.evtsExt__MousePointerLock__RequestPointerLock.userFunc0xb6f580 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__MousePointerLock__RequestPointerLock.userFunc0xe092a0 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const canvas = runtimeScene.getGame().getRenderer().getCanvas();
 if (canvas.requestPointerLock && !document.pointerLockElement) {
@@ -21,7 +21,7 @@ gdjs.evtsExt__MousePointerLock__RequestPointerLock.eventsList0 = function(runtim
 {
 
 
-gdjs.evtsExt__MousePointerLock__RequestPointerLock.userFunc0xb6f580(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__MousePointerLock__RequestPointerLock.userFunc0xe092a0(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

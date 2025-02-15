@@ -1,9 +1,9 @@
 {
-  "name": "Pretty 3D thing",
-  "short_name": "Pretty 3D thing",
+  "name": "untitled gun game",
+  "short_name": "untitled gun game",
   "id": "com.example.gamename",
-  "description": "",
-  "orientation": "any",
+  "description": "Brain marrow corps.",
+  "orientation": "landscape",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "black",
